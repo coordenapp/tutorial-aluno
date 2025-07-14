@@ -1,0 +1,76 @@
+<p align="center">
+  <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/thumbnail.png?raw=true" alt="Logo Coordenapp" width="1200">
+</p> 
+
+## 🌗 Modo Claro/Escuro  
+Para alterar o tema do aplicativo:  
+1. Acesse o **menu**  
+2. Clique no ícone **SOL/LUA** para alternar entre **modo claro** ou **escuro**
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem7.jpg?raw=true" alt="Alternar tema" width="300"> </p>   
+
+## 📅 Menu Agendamento  
+
+### Selecionando um Coordenador:  
+1. Na página de **Agendamento**, clique no **coordenador desejado**  
+2. Apenas coordenadores disponíveis serão exibidos  
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem1.jpg?raw=true" alt="Lista de coordenadores disponíveis" width="300"> </p>  
+
+### Escolhendo Data e Horário:  
+1. Após selecionar o coordenador, visualize os **horários disponíveis**  
+2. Altere a semana usando as **setas de navegação**  
+3. Clique na **data desejada**  
+4. Selecione um horário disponível clicando no **círculo** correspondente
+5. Clique em **AGENDAR** 
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem2.jpg?raw=true" alt="Tela para selecionar data e horário" width="300"> </p>  
+
+### Preenchendo seus Dados:  
+1. Preencha todos os campos obrigatórios:  
+   - **Nome e sobrenome**  
+   - **Matrícula**  
+   - **E-mail** *(deve ser válido e de acesso frequente)*  
+   - **Modalidade** *(apenas para Engenharia Civil ou Engenharia da Computação)*  
+2. Role a página e clique em **CONFIRMAR**  
+
+*Observação*:  
+- Se o coordenador cancelar o agendamento, você será avisado no seu e-mail informado 
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem3.jpg?raw=true" alt="Dados do agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem4.jpg?raw=true" alt="Botão de confirmar" width="300"> </p>  
+
+### Confirmação do Agendamento:  
+1. Se tudo estiver correto, seu agendamento será confirmado  
+2. **Leia atentamente e salve o número do seu protocolo** – você não poderá recuperá-lo depois  
+3. Apenas alunos de cursos **SEMIPRESENCIAL** ou **EAD** verão o **link da reunião**  
+   - Clique em **COPIAR** para salvar o link  
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem5.jpg?raw=true" alt="Tela de confirmação do agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem6.jpg?raw=true" alt="Tela de link copiado" width="300"> </p> 
+
+## 🔍 Menu Consultar  
+
+### Verificando um Agendamento:  
+1. Insira o **número do seu protocolo** e **matrícula**  
+2. Clique em **BUSCAR**  
+3. Confira as informações:  
+   - Nome  
+   - Dia
+   - Horário
+4. Apenas alunos de cursos **SEMIPRESENCIAL** ou **EAD** precisam do **link da reunião**, basta clicar em **COPIAR**
+
+### Cancelando um Agendamento:  
+1. Clique em **CANCELAR** se necessário
+2. Clique em **SIM** para confirmar 
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem8.jpg?raw=true" alt="Consultar Agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem9.jpg?raw=true" alt="Dados do agendamento" width="300"> </p>
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem10.jpg?raw=true" alt="Cancelar agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem11.jpg?raw=true" alt="Confirmação de cancelamento" width="300"> </p> 
+
+## ❓ Menu Ajuda  
+Nesta seção, você encontra:  
+- **Link para este tutorial**  
+- **Informações sobre atualizações do sistema pela equipe do** `Coordenapp`  
+
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem12.jpg?raw=true" alt="Tela do menu Ajuda" width="300"> </p>
+
+---  
+*Equipe Coordenapp*
