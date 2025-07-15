@@ -2,6 +2,17 @@
   <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/thumbnail.png?raw=true" alt="Logo Coordenapp" width="1200">
 </p> 
 
+**`Coordenapp`** é um PWA (Aplicativo Web Progressivo). Um **app da Web** é um aplicativo desenvolvido para a web que você pode acessar em qualquer dispositivo. Com ele, um site pode funcionar como um app e ser acessado no seu computador ou dispositivo móvel pelo acesso rápido ou pela tela inicial.
+
+### Adicionar atalho em Android:
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/atalho_android.png?raw=true" alt="Adicionar atalho em android" width="300"> </p>
+
+### Adicionar atalho em Computador:
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/atalho_computador.png?raw=true" alt="Adicionar atalho em computador" width="300"> </p>
+
+### Adicionar atalho em iPhone/iPad:
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/atalho_iphone_ipad.png?raw=true" alt="Adicionar atalho em iphone ou ipad" width="300"> </p>
+
 ## 🌗 Modo Claro/Escuro  
 Para alterar o tema do aplicativo:  
 1. Acesse o **menu**  
@@ -68,7 +79,7 @@ Para alterar o tema do aplicativo:
 ## ❓ Menu Ajuda  
 Nesta seção, você encontra:  
 - **Link para este tutorial**  
-- **Informações sobre atualizações do sistema pela equipe do** `Coordenapp`  
+- **Informações sobre atualizações do sistema pela equipe do `Coordenapp`**  
 
 <p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem12.jpg?raw=true" alt="Tela do menu Ajuda" width="300"> </p>
 
