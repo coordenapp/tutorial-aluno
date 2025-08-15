@@ -71,11 +71,12 @@ Para alterar o tema do aplicativo:
    - Horário
 4. Apenas alunos de cursos **SEMIPRESENCIAL** ou **EAD** precisam do **link da reunião**, basta clicar em **COPIAR**
 
+<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem8.jpg?raw=true" alt="Consultar Agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem9.jpg?raw=true" alt="Dados do agendamento" width="300"> </p>
+
 ### Cancelando um Agendamento:  
 1. Clique em **CANCELAR** se necessário
 2. Clique em **SIM** para confirmar 
 
-<p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem8.jpg?raw=true" alt="Consultar Agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem9.jpg?raw=true" alt="Dados do agendamento" width="300"> </p>
 <p align="center"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem10.jpg?raw=true" alt="Cancelar agendamento" width="300"> <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/imagem11.jpg?raw=true" alt="Confirmação de cancelamento" width="300"> </p> 
 
 ## ❓ Menu Ajuda  
@@ -87,3 +88,4 @@ Nesta seção, você encontra:
 
 ---  
 *Equipe Coordenapp*
+
