@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/coordenapp/tutorial-aluno/blob/main/assets/thumbnail.png?raw=true" alt="Logo Coordenapp" width="1200">
+  <img src="https://storage.googleapis.com/buildship-lgzfqs-us-central1/uploaded-files/assets-aluno/thumbnail.png" alt="Logo Coordenapp" width="1200">
 </p> 
 
 **`Coordenapp`** é um PWA (Aplicativo Web Progressivo). Um **app da Web** é um aplicativo desenvolvido para a web que você pode acessar em qualquer dispositivo. Com ele, um site pode funcionar como um app e ser acessado no seu computador ou dispositivo móvel pelo acesso rápido ou pela tela inicial.
@@ -90,3 +90,4 @@ Nesta seção, você encontra:
 *Desenvolvido por Amanda Souza &copy; 2025*
 <p><a href="https://www.linkedin.com/in/amandasouzadev/" target="_blank" rel="noopener noreferrer"><img src="assets/linkedin-icon.svg" alt="logo do linkedin" class="icon" width="40"></a>
 <a href="https://github.com/amandasouzs" target="_blank" rel="noopener noreferrer"><img src="assets/github-icon.svg" alt="logo do github" class="icon" width="40"></a></p>
+
